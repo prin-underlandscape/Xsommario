@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "Fase1-230613-Tenerano",
-    "Descrizione": "Test di dataset-sync 0",
+    "Nome": "XFase1-230613-Tenerano",
+    "Descrizione": "Test di dataset-sync 1!",
     "umapKey": ""
   },
   "features": [
