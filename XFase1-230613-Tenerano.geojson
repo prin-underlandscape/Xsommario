@@ -2,8 +2,8 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "Fase1-230613-Tenerano",
-    "Descrizione": "Prima ricognizione per localizzare la Tecchia di Tenerano",
-    "umapKey": "xxx"
+    "Descrizione": "Test di dataset-sync 0",
+    "umapKey": ""
   },
   "features": [
     {
